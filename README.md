@@ -25,4 +25,4 @@ function Button() {
 
 Read more about React Hooks on the official documentation [here](https://reactjs.org/docs/hooks-overview.html)
 
-This repo will host my future projects written using React Hooks..  
+This repo will host my future projects written using React Hooks, React Suspense and React.Lazy..  
