@@ -23,6 +23,10 @@ function Button() {
 }
 ```  
 
-Read more about React Hooks on the official documentation [here](https://reactjs.org/docs/hooks-overview.html)
+Read more about React Hooks on the official documentation [here](https://reactjs.org/docs/hooks-overview.html)  
+
+Checkout these examples where I've used React hooks  
+* [Kanye Said This - A next.js web app which fetches a random Kanye West Quote on every render](https://github.com/AdithyaBhat17/kanye-said-this)
+* [My new Portfolio](https://github.com/AdithyaBhat17/adithyabhat17.github.io/tree/version-3)
 
 This repo will host my future projects written using React Hooks, React Suspense and React.Lazy..  
