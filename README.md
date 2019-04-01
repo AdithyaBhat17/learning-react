@@ -28,5 +28,6 @@ Read more about React Hooks on the official documentation [here](https://reactjs
 Checkout these examples where I've used React hooks  
 * [Kanye Said This - A next.js web app which fetches a random Kanye West Quote on every render](https://github.com/AdithyaBhat17/kanye-said-this)
 * [My new Portfolio](https://github.com/AdithyaBhat17/adithyabhat17.github.io/tree/version-3)
+* [A simple Reddit Clone](https://github.com/AdithyaBhat17/react-readable.git)
 
 This repo will host my future projects written using React Hooks, React Suspense and React.Lazy..  
